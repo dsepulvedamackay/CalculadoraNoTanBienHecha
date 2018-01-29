@@ -1,0 +1,76 @@
+
+body{
+	margin: 5vw;
+}
+
+#pantalla{
+	font-size: 2vw;
+	text-align: right;
+	margin-right: 2vw;
+}
+
+#container{
+	border: solid 0.1vw grey;
+	background: white;
+	display: inline-block;
+	height: 35vw;
+	width: 50vw;
+	margin-left: 19.5vw;
+	margin-top: 2vw;
+}
+
+
+#btnContainer{
+	display: inline-flex;
+	background: rgb(223,223,223);
+	height: 28.6vw;
+	width: 50vw;
+
+}
+#btnIzContainer{
+	display: inline-block;
+	background: rgb(223,223,223);
+	height: 28.6vw;
+	width: 37.8vw;
+
+}
+
+#btnDerContainer{
+	display: inline-block;
+	background: rgb(223,223,223);
+	height: 28vw;
+	width: 12vw;
+
+}
+.btnIz{
+	height:  7.15vw;
+	width:  12.25vw;
+	border: 0;
+	background: rgb(223,223,223);
+	font-size: 2vw;
+
+}
+
+.btnDer{
+	height:  7.15vw;
+	width:  12.25vw;
+	border: 0;
+	background: rgb(92,232,70);
+	font-size: 2vw;
+}
+
+.btnAbajo{
+	height:  7.15vw;
+	width:  6.1vw;
+	border: 1;
+	background: rgb(92,232,70);
+	font-size: 2vw;
+}
+#igual{
+	border: 0;
+	width:  37.8vw;
+}
+
+#borrar{
+	background: red;
+}
